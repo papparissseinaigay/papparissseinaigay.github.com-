@@ -1,0 +1,76 @@
+!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>2o Epal Chalandrioy</title>
+</head>
+
+<body>
+  <center>
+    <h1> 2o Epal Chalandriou </h1>
+     <img src=https://lh3.googleusercontent.com/p/AF1QipN1GQTNAQm5388R8NI9eKAF54JNrbcCi-4FsASj=s680-w680-h510>
+       <table>
+  <tr>
+    <th>δευτερα</th>
+    <th>τριτι</th>
+    <th>τεταρτη</th>
+    <th>πεμτη</th>
+    <th>παρασκευη</th>    
+  </tr>
+  <tr>
+    <td>Αγγλικα</td>
+    <td>Γεωγραφεια</td>
+    <td>Μαθηματικα</td>
+    <td>Γλωσσα</td>
+    <td>Γυμναστικη</td>
+  </tr>
+  <tr>
+    <td>Γλωσσα</td>
+    <td>Ιστορια</td>
+    <td>Θρησκευτικα</td>
+    <td>Γλωσσα</td>
+    <td>Η/Υ</td>
+  </tr>
+  <tr>
+    <td>Ιστορια</td>
+    <td>Εκθεση</td>
+    <td>Γεωμετρια</td>
+    <td>Γεωλογια</td>
+    <td>Γλωσσα</td>
+         </tr>
+         <tr>
+    <td>Η/Υ</td>
+    <td>Μαθηματικα</td>
+    <td>Σεξουαλικη Αγωγη</td>
+    <td>Βιολογια</td>
+    <td>Χειμια</td>
+         </tr>
+         <tr>
+    <td>Φυσικη</td>
+    <td>Αστρονομια</td>
+    <td>Αστροφισικη</td>
+    <td>Γαστρονομια</td>
+    <td>Αρχαια</td>
+         </tr>
+         <tr>
+    <td>Αρχαια</td>
+    <td>Η/Υ</td>
+    <td>Ιστορια</td>
+    <td>Μαθηματικα</td>
+    <td>Ιστορια</td>
+         </tr>
+         <tr>
+    <td>Γυμναστικη</td>
+    <td>Γλωσσα</td>
+    <td></td>
+    <td></td>
+    <td></td>
+         </tr>
+</table>
+  </center>
+ </body>
+
+</html>
