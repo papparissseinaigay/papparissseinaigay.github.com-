@@ -14,11 +14,11 @@
      <img src=https://lh3.googleusercontent.com/p/AF1QipN1GQTNAQm5388R8NI9eKAF54JNrbcCi-4FsASj=s680-w680-h510>
        <table>
   <tr>
-    <th>δευτερα</th>
-    <th>τριτι</th>
-    <th>τεταρτη</th>
-    <th>πεμτη</th>
-    <th>παρασκευη</th>    
+    <th>Δευτέρα</th>
+    <th>Τρίτη</th>
+    <th>Τετάρτη</th>
+    <th>Πέμτη</th>
+    <th>Παρασκευή</th>    
   </tr>
   <tr>
     <td>Γεωμετρια</td>
