@@ -10,7 +10,7 @@
 
 <body>
   <center>
-    <h1> 2o ΕΠΑΛ Χαλανδριου </h1>
+    <h1> 2o ΕΠΑΛ Χαλανδρίου </h1>
      <img src=https://lh3.googleusercontent.com/p/AF1QipN1GQTNAQm5388R8NI9eKAF54JNrbcCi-4FsASj=s680-w680-h510>
        <table>
   <tr>
